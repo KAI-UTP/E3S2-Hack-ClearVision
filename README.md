@@ -1,5 +1,17 @@
 # E3S2-Hack-ClearVision
 
+---
+## Team SUS Developers
+
+Developed for ElectroHack 2.0 (2026) at Universiti Teknologi PETRONAS by:
+
+* Chan Li Kai - Bachelor of Computer Engineering with Honours
+* Yap Wei Ming - Bachelor of Electrical and Electronics Engineering with Honours
+* Irvin Chang Hou Ceng - Bachelor of Computer Engineering with Honours
+* Tee Teck An - Bachelor of Electrical and Electronics Engineering with Honours
+
+---
+
 ClearVision is an AI-powered assistive vision navigation system developed by team SUS Developers for ElectroHack 2.0 (SENSE-AI: Inclusion in Motion) at Universiti Teknologi PETRONAS.
 
 The platform leverages computer vision techniques to empower visually impaired and blind individuals by scanning real-world surroundings, estimating obstacle proximity, resolving traffic light statuses, and providing intuitive auditory and map-based navigation data to support independent mobility.
@@ -61,10 +73,3 @@ The platform leverages computer vision techniques to empower visually impaired a
 ├── distance_utils.py         # Distance estimation module and metrics
 ├── Dockerfile                # Multi-stage production container build guide
 └── requirements.txt          # Explicit pip python ecosystem dependencies
-
----
-### 2. Clone and Initialize the Repository
-```bash
-git clone https://github.com/KAI-UTP/E3S2-Hack-ClearVision.git
-cd E3S2-Hack-ClearVision
-
