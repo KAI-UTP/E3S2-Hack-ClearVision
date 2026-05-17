@@ -63,5 +63,8 @@ The platform leverages computer vision techniques to empower visually impaired a
 └── requirements.txt          # Explicit pip python ecosystem dependencies
 
 ---
-
+### 2. Clone and Initialize the Repository
+```bash
+git clone https://github.com/KAI-UTP/E3S2-Hack-ClearVision.git
+cd E3S2-Hack-ClearVision
 
